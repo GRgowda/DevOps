@@ -1,0 +1,21 @@
+1.log in to github create new repositry 
+2. create a new file called dev.txt and add the following text:
+3.add and commit create and update
+
+///in vs code
+
+1.  git -to check git is installed
+
+2.  git config --global user.name "GRgowda"
+
+3.  git config --global user.email "prajwalgr17@gmail.com"
+
+4.  git clone https://github.com/GRgowda/DevOps.git   (get link by clicking "CODE" in git repositry and paste it )
+  now files and fplders of git repositry are shown in vsCode
+
+5. cd DevOps :change working directory
+
+6. ls   :list of all files and size
+
+7.git add file  :add file from vsCode to github repositry
+
