@@ -19,3 +19,6 @@
 
 7.git add file  :add file from vsCode to github repositry
 
+8. git push origin main  :push file of origine to main
+
+finished
