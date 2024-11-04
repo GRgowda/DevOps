@@ -17,5 +17,7 @@
 
 6. ls   :list of all files and size
 
-7.git add file  :add file from vsCode to github repositry
+7. git add filename  :add file from vsCode to github repositry
+        git add .  :will add all files
 
+8. git commit -m "first commit"
