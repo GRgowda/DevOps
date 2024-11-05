@@ -9,7 +9,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Clone the repository
-                git 'https://github.com/GRgowda/DevOps.git'
+               git branch: 'main' url: 'https://github.com/GRgowda/DevOps.git'
             }
         }
 
